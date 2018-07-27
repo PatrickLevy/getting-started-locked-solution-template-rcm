@@ -25,4 +25,5 @@ matches the following schema:
 
 local JSONreply = {}
 JSONreply.status = "requested"
+JSONreply.disabled = true
 return JSONreply
